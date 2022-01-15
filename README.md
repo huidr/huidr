@@ -1,6 +1,6 @@
 ## :wave: Hello, I am Ronald. :)
 
-I'm an undergrad at IISER Mohali who would most likely, if things go well, graduate with an BS-MS dual degree majoring in mathematics and minoring in physics.
+I'm an undergrad at IISER Mohali who shall, if things go well, graduate with an BS-MS dual degree majoring in mathematics and minoring in physics.
 
 I like calculus, analysis, programming languages, Dostoevsky's works and Elvis's songs.
 
