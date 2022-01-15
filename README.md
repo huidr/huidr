@@ -2,8 +2,6 @@
 
 I'm an undergrad at IISER Mohali who shall, if things go well, graduate with an BS-MS dual degree majoring in mathematics and minoring in physics.
 
-I like calculus, analysis, programming languages, Dostoevsky's works and Elvis's songs.
-
 ### 🔭 Work in progress
 
 1. [MS19 MP21 Math Community](https://ms19mp21math.github.io) &mdash; a site forged for the MS19 and MP21 folks studying mathematics at IISER Mohali.
