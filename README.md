@@ -1,6 +1,4 @@
-## :wave: Hello, I am Ronald. :)
-
-I'm an undergrad at IISER Mohali who shall, if things go well, graduate with an BS-MS dual degree majoring in mathematics and minoring in physics.
+## :wave: Hello. :)
 
 ### 🔭 Work in progress
 
