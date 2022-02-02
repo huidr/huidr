@@ -6,7 +6,7 @@
 
 🌱
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmangang&layout=compact&theme=dark)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmangang&layout=compact&theme=dark) -->
 
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=ronaldmangang)
