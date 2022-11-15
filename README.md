@@ -1,6 +1,3 @@
-
-<p align="center">
-
 ```text
      _______  _______  _        _______  _        ______           
     (  ____ )(  ___  )( (    /|(  ___  )( \      (  __  \          
@@ -20,4 +17,5 @@
 |/     \|(_______)\_______/(______/ |/   \__/(_______)|/     \|
 ```
 
-</p>
+- Solution manuals
+  - [Nathanson's Elementary Methods in Number Theory](github.com/huidr/nathanson)
