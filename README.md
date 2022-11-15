@@ -18,4 +18,4 @@
 ```
 
 - Solution manuals
-  - [Nathanson's Elementary Methods in Number Theory](github.com/huidr/nathanson)
+  - [Nathanson's Elementary Methods in Number Theory](https://github.com/huidr/nathanson)
