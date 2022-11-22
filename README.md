@@ -17,7 +17,7 @@
 |/     \|(_______)\_______/(______/ |/   \__/(_______)|/     \|
 ```
 
-- Web Apps
+- Web apps
   - 🌟[MSKey](https://github.com/huidr/mskey) is a virtual Meetei Script keyboard.
 - Research
   - 🌟[Spectral Graph Analysis](https://github.com/huidr/spectral-graph-analysis).
