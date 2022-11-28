@@ -9,7 +9,7 @@
 - Compilations
   - 🌟[Term Papers](https://github.com/huidr/term-papers) is an archive of my undergrad term papers, seminars, projects and presentations.
   - 🌟[Bash](https://github.com/huidr/bash) is a list of useful bash commands.
-  - 🌟[Kingdom of Links](https://github/huidr/kingdom-of-links) is a list of some useful sites.
+  - 🌟[Kingdom of Links](https://github.com/huidr/kingdom-of-links) is a list of some useful sites.
 - Guides
   - 🌟[CPlusPlus](https://github.com/huidr/cplusplus) contains source code showcasing modern C++ features.
   - 🌟[Good Old Sea](https://github.com/huidr/good-old-sea) contains source code showcasing C programming features.
