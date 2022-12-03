@@ -7,7 +7,8 @@
 - Solution manuals
   - 🌟[Nathanson's Elementary Methods in Number Theory](https://github.com/huidr/nathanson)
 - Compilations
-  - 🌟[Term Papers](https://github.com/huidr/term-papers) is an archive of my undergrad term papers, seminars, projects and presentations.
+  - 🌟[Term Papers](https://github.com/huidr/term-papers) is an archive of my undergrad term papers, seminars, projects and presentations. 
+  - 🌟[Articles](https://github.com/ronaldhuidrom/articles) is an archive of my articles and essays.
   - 🌟[Bash](https://github.com/huidr/bash) is a list of useful bash commands.
   - 🌟[Kingdom of Links](https://github.com/huidr/kingdom-of-links) is a list of some useful sites.
 - Guides
