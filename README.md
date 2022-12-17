@@ -1,4 +1,4 @@
-### Projects
+### [Repos](https://github.com/huidr)
 
 - Web apps
   - 🌟[MSKey](https://github.com/huidr/mskey) is a virtual Meetei Script keyboard.
