@@ -12,7 +12,7 @@
   - 🌟[Bash](https://github.com/huidr/bash) is a list of useful bash commands.
   - 🌟[Kingdom of Links](https://github.com/huidr/kingdom-of-links) is a list of some useful sites.
 - Guides
-  - 🌟[Help Sessions](https://github.com/huidr/help-sessions) for IISERM courses MTH101 and IDC101.
+  - 🌟[Help Sessions](https://github.com/huidr/help-sessions) for IISERM courses [MTH101](https://github.com/huidr/help-sessions/mth101) and [IDC101](https://github.com/huidr/help-sessions/idc101).
   - 🌟[CPlusPlus](https://github.com/huidr/cplusplus) contains source code showcasing modern C++ features.
   - 🌟[Good Old Sea](https://github.com/huidr/good-old-sea) contains source code showcasing C programming features.
   - 🌟[Python](https://github.com/huidr/python): a quick guide.
