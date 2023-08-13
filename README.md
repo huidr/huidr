@@ -3,6 +3,7 @@
 - Web apps
   - 🌟[MSKey](https://github.com/huidr/mskey) is a virtual Meetei Script keyboard
 - Research
+  - 🌟[Thesis](https://github.com/huidr/thesis) is my undergraduate thesis on low-dimenstional topology particularly knots and braids
   - 🌟[Spectral Graph Analysis](https://github.com/huidr/spectral-graph-analysis)
 - Solution manuals
   - 🌟[Nathanson's Elementary Methods in Number Theory](https://github.com/huidr/nathanson)
